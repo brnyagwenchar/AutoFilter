@@ -1,6 +1,6 @@
 FROM python:3.10
 
-WORKDIR /TamilanBotsz
+WORKDIR /Darker
 
 COPY requirements.txt ./
 
